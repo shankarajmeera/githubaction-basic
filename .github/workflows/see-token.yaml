@@ -1,6 +1,5 @@
 name: Get token for prototyping
-on: 
-  gollum
+on: gollum
 
 jobs:
   test:
